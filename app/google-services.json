@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871605972820",
+    "project_id": "pinkproject-3cd44",
+    "storage_bucket": "pinkproject-3cd44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871605972820:android:9f1117cabcdf930256a2c1",
+        "android_client_info": {
+          "package_name": "com.example.pinkproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjk-mamkoSNBqB7L4NjbkoxTfgslG9ihM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
